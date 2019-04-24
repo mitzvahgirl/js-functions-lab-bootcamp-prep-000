@@ -1,6 +1,6 @@
 // write your code below!
-function happyHolidaysTo () {
-  return `Happy holidays`;
+unction happyHolidays() {
+  return "Happy holidays!"
 }
 
 
